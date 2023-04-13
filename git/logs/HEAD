@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 55a7030ead68bf0f4a5fe3217666838164f94e75 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197279 +0300	commit (initial): Je raconte mon histoire.
+55a7030ead68bf0f4a5fe3217666838164f94e75 55a7030ead68bf0f4a5fe3217666838164f94e75 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197308 +0300	checkout: moving from histoire to version_dev
+55a7030ead68bf0f4a5fe3217666838164f94e75 66b2cb747a1b45dd91aebaff18331f2bce8e0834 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197331 +0300	commit: Je raconte mon histoire de dev
+66b2cb747a1b45dd91aebaff18331f2bce8e0834 66b2cb747a1b45dd91aebaff18331f2bce8e0834 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197355 +0300	checkout: moving from version_dev to version_stable
+66b2cb747a1b45dd91aebaff18331f2bce8e0834 403b44f92465c711a74ae08f622d5f9c72d3f631 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197416 +0300	commit: Je raconte ma meilleure version de moi
+403b44f92465c711a74ae08f622d5f9c72d3f631 55a7030ead68bf0f4a5fe3217666838164f94e75 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197425 +0300	checkout: moving from version_stable to histoire
+55a7030ead68bf0f4a5fe3217666838164f94e75 403b44f92465c711a74ae08f622d5f9c72d3f631 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197456 +0300	checkout: moving from histoire to version_stable
+403b44f92465c711a74ae08f622d5f9c72d3f631 55a7030ead68bf0f4a5fe3217666838164f94e75 Gaetan Jonathan BAKARY <gaetan.jonathan.bakary@esti.mg> 1628197461 +0300	checkout: moving from version_stable to histoire
